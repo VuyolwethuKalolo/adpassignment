@@ -10,9 +10,17 @@ package za.ac.cput.adpassignment;
  * @author VUYOLWETHU
  */
 public class Testing {
+    /**
+     * 
+     * @return 
+     */
     
     public String greet(){
     return "Hello";
+    
+    }
+    public static void main(String[] args) {
+        System.out.println("Hellow my nme is Vuyolwethu Kalolo");
     }
     
 }

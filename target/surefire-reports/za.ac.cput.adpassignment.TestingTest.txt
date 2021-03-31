@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: za.ac.cput.adpassignment.TestingTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.041 sec <<< FAILURE!
-za.ac.cput.adpassignment.TestingTest.testGreet()  Time elapsed: 0.04 sec  <<< FAILURE!
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.047 sec <<< FAILURE!
+za.ac.cput.adpassignment.TestingTest.testGreet()  Time elapsed: 0.045 sec  <<< FAILURE!
 org.opentest4j.AssertionFailedError: expected: <> but was: <Hello>
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)

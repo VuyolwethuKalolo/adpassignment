@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="1" name="za.ac.cput.adpassignment.TestingTest" time="0.04" errors="0" skipped="0">
+<testsuite tests="1" failures="1" name="za.ac.cput.adpassignment.TestingTest" time="0.045" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
     <property name="java.vm.version" value="16+36-2231"/>
@@ -60,7 +60,7 @@
     <property name="sun.cpu.endian" value="little"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="za.ac.cput.adpassignment.TestingTest" name="za.ac.cput.adpassignment.TestingTest.testGreet" time="0.04">
+  <testcase classname="za.ac.cput.adpassignment.TestingTest" name="za.ac.cput.adpassignment.TestingTest.testGreet" time="0.045">
     <failure message="expected: &lt;&gt; but was: &lt;Hello&gt;" type="org.opentest4j.AssertionFailedError">org.opentest4j.AssertionFailedError: expected: &lt;&gt; but was: &lt;Hello&gt;
 	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:55)
 	at org.junit.jupiter.api.AssertionUtils.failNotEqual(AssertionUtils.java:62)
